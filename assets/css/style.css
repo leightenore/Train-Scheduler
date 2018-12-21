@@ -1,0 +1,53 @@
+body {
+  font-family: 'Sawarabi Mincho', sans-serif;
+  background-image: url(../images/sos.png);
+}
+
+h1,
+h6 {
+  font-family: 'Cantata One', serif;
+}
+
+#header-text {
+  padding: 55px 75px;
+
+}
+
+h1 {
+  margin-top: 39px;
+}
+
+#header {
+  text-align: center;
+  border-bottom: 1px;
+  border-style: solid;
+  border-color: black;
+  background-image: url(../images/header.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  opacity: 0.6;
+  background-position-y: -103px;
+  height: 275px;
+  color: white;
+}
+
+#icon {
+  height: 25px;
+}
+
+table {
+  text-align: center;
+}
+
+label {
+  margin-bottom: 0rem;
+  font-size: 16px;
+}
+
+.form-group {
+  margin-bottom: 0.5rem;
+}
+
+#submit-button {
+  margin-top: 7px;
+}
